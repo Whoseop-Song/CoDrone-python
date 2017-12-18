@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: CoDrone
+Version: 0.2
+Summary: Python package for CoDrone
+Home-page: https://github.com/RobolinkInc/CoDrone-python.git
+Author: robolink
+Author-email: whoseop@robolink.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3

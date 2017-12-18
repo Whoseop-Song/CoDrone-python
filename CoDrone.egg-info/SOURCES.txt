@@ -1,0 +1,13 @@
+README.md
+setup.py
+CoDrone/__init__.py
+CoDrone/codrone.py
+CoDrone/crc.py
+CoDrone/protocol.py
+CoDrone/receiver.py
+CoDrone/storage.py
+CoDrone/system.py
+CoDrone.egg-info/PKG-INFO
+CoDrone.egg-info/SOURCES.txt
+CoDrone.egg-info/dependency_links.txt
+CoDrone.egg-info/top_level.txt

@@ -14,8 +14,9 @@ this is Python package for control Codrone
 
 setup(
     name='CoDrone',
-    version='0.1',
+    version='0.2',
     description='Python package for CoDrone',
+    url='https://github.com/RobolinkInc/CoDrone-python.git',
     author='robolink',
     author_email='whoseop@robolink.com',
     packages=["CoDrone"],
@@ -24,4 +25,5 @@ setup(
     setup_requires=setup_requires,
     dependency_links=dependency_links,
     # scripts=['manage.py'],
+    python_requires='>=3',
     )
